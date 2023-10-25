@@ -1,0 +1,32 @@
+{
+    "song1" : {
+       "song" : "One Only",
+       "artist" : "Pamungkas",
+       "genre" : "Pop",
+       "link": "https://www.youtube.com/watch?v=dBFp0Ext0y8"
+    },
+    "song2" : {
+        "song" : "Escape Plan",
+        "artist" : "Travis Scott",
+        "genre" : "Hip-Hop/Rap",
+        "link": "https://www.youtube.com/watch?v=KPz33BLkvho"
+     },
+     "song3" : {
+        "song" : "Oksihina",
+        "artist" : "Dionela",
+        "genre" : "R&B",
+        "link": "https://www.youtube.com/watch?v=zRCjgZIua_A"
+     },
+     "song4" : {
+        "song" : "I Miss You",
+        "artist" : "blink-182",
+        "genre" : "Rock",
+        "link": "https://www.youtube.com/watch?v=s1tAYmMjLdY"
+     },
+     "song5" : {
+        "song" : "How to Save a Life",
+        "artist" : "The Fray",
+        "genre" : "Rock",
+        "link": "https://www.youtube.com/watch?v=s1tAYmMjLdY"
+     }
+ }
